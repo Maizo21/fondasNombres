@@ -1,4 +1,4 @@
-import Fonda from "./fonda";
+import Fonda from "./Fonda";
 import Head from 'next/head';
 
 export default function Home() {
